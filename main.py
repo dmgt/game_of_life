@@ -31,10 +31,6 @@ for y in range(12):
     print(y, x, board[y][x])
 
 
-test_string = "xoox"
-number_alive_cells = test_string.count('x')
-print("Count of alive cells: ", number_alive_cells)
-
 # Encode rules for evolution
 
 
